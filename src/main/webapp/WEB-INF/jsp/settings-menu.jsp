@@ -13,7 +13,7 @@
                 <li class="disabled"><a href="#">EMail River</a></li>
                 <li class="disabled"><a href="#">RSS River</a></li>
                 <li class="disabled"><a href="#">Twitter River</a></li>
-                <li class="disabled"><a href="#">Dropbox River</a></li>
+                <li id="btnAddDropBoxRiver"><a href="#">Dropbox River</a></li>
             </ul>
         </div>
     </div>
