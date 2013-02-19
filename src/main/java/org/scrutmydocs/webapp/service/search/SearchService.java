@@ -112,7 +112,7 @@ public class SearchService {
 						hit.getHighlights().add(fragment.string());
 					}
 				}
-			}
+			}// test commit
 			hits.add(hit);
 		}
 
