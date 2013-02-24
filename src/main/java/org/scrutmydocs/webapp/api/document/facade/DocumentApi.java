@@ -64,7 +64,7 @@ public class DocumentApi extends CommonBaseApi {
 	}
 	
 	/**
-	 * Add a new document
+	 * Add a new documentsdsdsd
 	 * @param doc
 	 * @return
 	 */
