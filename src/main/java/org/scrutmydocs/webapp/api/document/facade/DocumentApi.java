@@ -60,7 +60,7 @@ public class DocumentApi extends CommonBaseApi {
 	
 	@Override
 	public String helpMessage() {
-		return " /1/doc API helps you to manage your documents.";
+		return "The /1/doc API helps you to manage your documents.";
 	}
 	
 	/**
